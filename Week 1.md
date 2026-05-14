@@ -1,0 +1,1 @@
+This is a new folder created in VS code.
